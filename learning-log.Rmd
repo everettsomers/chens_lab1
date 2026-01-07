@@ -1,0 +1,17 @@
+---
+title: "learning-log"
+author: "Chen"
+date: "2026-01-07"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Learning Log
+## January 6, 2026
+Today I learned:
+- How to create a GitHub repository
+- How to clone a repository to my computer
+- The difference between Git and GitHub
